@@ -1,0 +1,11 @@
+# Environment variables
+.env
+
+# Python specific
+__pycache__/
+*.pyc
+.DS_Store
+
+# IDE and editor specific
+.vscode/
+.idea/
