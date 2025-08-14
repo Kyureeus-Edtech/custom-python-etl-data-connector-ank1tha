@@ -1,0 +1,6 @@
+# NVD API Key (Optional but recommended for higher rate limits)
+NVD_API_KEY = nvd_api_key_here
+
+# MongoDB Connection URI
+MONGO_URI = mongodb://localhost:27017/
+MONGO_DB_NAME = enriched_cves
